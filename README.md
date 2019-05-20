@@ -69,61 +69,101 @@ k. How safe these targeted drug delivery systems?
 · https://www.youtube.com/watch?v=emEua2eJp1U
 
 Q.1. Medieval stained glass  are the example of
+
 a. Painting
+
 b. Digital Graphics
+
 c. Nanotecnology (Correct answer)
+
 d. None of above
 
 Q.2. Method start with atoms or molecules and build up to nanostructures called
+
 a. Bottom up approach (Correct answer)
+
 b. Top down approach
+
 c. None of above
 
 Q3. Example for Top down method for the nano structure is
+
 a. Lithography (Correct answer)
+
 b. Sol gel method
+
 c. Precipitation method
+
 d. None of above
 
 Q4. Scanning electron microscope technique can be used
+
 a. To measure the size of the particle
+
 b. Charge on the particle
+
 c. Shape and size of the particle (Correct answer)
+
 d. None of above
 
 Q5. Example for 3D nano structure is
+
 a. Nano fiber
+
 b. Nano thin film
+
 c. Quantum Dots (Correct answer)
+
 d. None of above
 
 Q6. A bucky ball carries
+
 a. 50 Carbon
+
 b. 60 Carbon (Correct answer)
+
 c. 70 Carbon
+
 d. None of above
 
 Q7. The full name of AFM is in the area of nano technology
+
 a. American Federation of Musicians
+
 b. Atom free microscope
+
 c. Atomic Force Microscope (Correct answer)
+
 d. None of above
 
 Q8. What is the size of MEMS
+
 a. 10^-6 to 10^-4 m (Correct answer)
+
 b. 10^-8 to 10^-4 m
+
 c. 10^-10 to 10^-4 m
+
 d. None of above
 
 Q9. What is size of nano shell
+
 a. 1 nm
+
 b. 10 nm
+
 c. 100 nm (Correct answer)
+
 d. None of above
 
 Q10. Who gave the term “Nanotechnology”
+
 a. Richard Feynmann
+
 b. Eric Drexler (Correct answer)
+
 c. Sumio Tijima
+
 d. Richard Smalley
+
 e. 
