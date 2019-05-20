@@ -843,3 +843,61 @@ http://4.bp.blogspot.com/-EKsTPPNaezU/U0bTHaVlpVI/AAAAAAAAAMY/jC1ELTTzwK8/s1600/
 ANSWERS
 
 (1) A (2) C (3) C (4) A (5) D (6) A (7) C (8) B (9) A (10) B (11) A (12) D (13) D (14) C (15) C (16) D (17) C (18) A (19) D (20) C (21) A (22) D (23) B (24) C (25) D (26) B (27) D (28) A (29) A (30) C (31) B (32) C (33) A (34) B (35) D (36) C (37) B (38) D (39) C (40) D (41) A (42) C (43) B (44) B (45) C (46) A (47) C (48) D (49) D (50) D (51) A (52) B (53) D (54) B (55) B (56) C (57) B (58) A (59) D (60) C (61) C (62) B
+
+1. What are magnetic properties of nanomaterials?
+
+2. How nanomaterials change mechanical properties?
+
+3. What are luminescence properties of nanomaterials?
+
+4. Mention two techniques for synthesis of nano phase materials.
+
+5. Mention two forms of nanomaterials used in nanoelectronics.
+
+6. What is shape memory effect?
+
+7. How nanomaterials used in super capacitors?
+
+8. What is wave packet? if so how?
+
+9. Can nanomaterial deviate Ohm’s law?
+
+10. Indian Scientists developed tiniest transistors in 2005 which was reported in Silicon India.  What they used to make these transistors?
+
+11. How nanowires are used in high density memories?
+
+12. How super capacitors are used in renewable energy?
+
+13. How resistance size can be reduced using nanomaterials?
+
+14. What are metallic glasses?
+
+15. What are the advantages of using metallic glasses as transformer core material?
+
+Answers:
+
+1. Non-magnetic materials become magnetic when the cluster size reduces to 80 atoms. Bulk magnetic moment increases with decreases in coordination number Ferro magnetic materials exhibit superparamagnetism at nanograin sizes. Paramagnetic materials exhibit ferromagnetism at nano grain size.
+
+2. Higher hardness and mechanical strength (2-7 times) when grain size reduces from 1 Î¼m to 10 nm. Higher moduli of elasticity (30%-40%)
+
+Very high ductility and super plastic behavior at low temperatures.
+
+3. Greater luminescence efficiency in nano semiconductor materials.
+
+4. Mechanical; Inert gas condensation; alloying; Sol-gel technique; Electro-depostion; Laser synthesis; Spraying.
+
+5. Nanodots, nanorods, Carbon nanotubes and Fullerenes.
+
+6. Certain metallic alloys like alloy of gold (Au) and Cadmium (Cd) exhibit a plastic nature, when cooled to a lower temperature. The return to their original dimensional configuration (metallic) during heating at high temperature. This effect is called Shape Memory Effect (SME). How nanomaterials are used in nanomagnets?
+
+7. Capacitor value depends on area of plates, insulating material and distance between plates. Insulating materials using nanomaterials increase the capacitance value.
+
+8. Deviations from Ohm’s law is due to: Wave mechanical theory.
+
+9. This transistor is made up of Carbon tubes.
+
+10. 14. Metallic  glasses  are  the  newly  developed  engineering  materials  which  shares  the properties of both metals and glasses. They are glasses having metallic properties.
+
+11. 15. Metallic glasses are ferromagnetic. They possess low magnetic losses, high permeability and saturation magnetization with low coactivity. They also have extreme mechanical hardness and excellent initial permeability.
+
+These properties make them useful as transformer core materials. Moreover power transformers made of metallic glasses are smaller in size and efficient in their performance.
