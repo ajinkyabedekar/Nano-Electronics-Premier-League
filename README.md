@@ -65,3 +65,5 @@ k. How safe these targeted drug delivery systems?
 · http://chemotherapy-science.blogspot.in/p/disadvantages_2492.html
 
 · https://canceraustralia.gov.au/affected-cancer/cancer-types/gynaecological-cancers/fallopian-tube-cancer/treatment/benefits-and-disadvantages-cancer-treatment
+
+· https://www.youtube.com/watch?v=emEua2eJp1U
