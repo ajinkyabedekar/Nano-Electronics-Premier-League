@@ -579,3 +579,267 @@ ANS: The size of MEMS is 10-6 to 10 -4 m.
 44. What is the size of a nanoshell?
 
 ANS: The size of a nanoshell is 100 nm.
+
+1) 10 nm = _____ m
+
+[A] 10-8 [B] 10-7 [C] 10-9 [D] 10-10
+
+2) The size of nanoparticles is between _____ nm.
+
+[A] 100 to 1000 [B] 0.1 to 10 [C] 1 to 100 [D] 0.01 to 1
+
+3) The diameter of hydrogen atom is...
+
+[A] 1 [B] 10 [C] 0.1 [D] 0.01
+
+4) Carbon atoms make ____ type of bond with other carbon atoms.
+
+[A] covalent [B] ionic [C] metallic [D] hydrogen
+
+5) Fullerene or bucky ball is made up of ____ carbon atoms.
+
+[A] 100 [B] 20 [C] 75 [D] 60
+
+6) The thermal conductivity of a standard SWNT along its length is ____ watt/(m.K)
+
+[A] 3500 [B] 385 [C] 35000 [D] 35
+
+7) 1 m = _____ nm.
+
+[A] 10-9 [B] 10-8 [C] 109 [D] 108
+
+8) "There is plenty of room at the bottom." This was stated by _____.
+
+[A] Eric Drexler [B] Richard Feynmann [C] Harold Croto [D] Richard Smalley
+
+9) Who coined the word 'nanotechnology'?
+
+[A] Eric Drexler [B] Richard Feynmann [C] Sumio Tijima [D] Richard Smalley
+
+10) According to the definition by CRN, nanotechnology is...
+
+[A] mechanical engineering [B] atomic engineering [C] Newtonian mechanics [D] micro-electronics
+
+11) Nanoscience can be studied with the help of...
+
+[A] quantum mechanics [B] Newtonian mechanics [C] macro-dynamics [D] geophysics
+
+12) Greeks and Romans had used nanoparticles in the manufacture of...
+
+[A] cosmetics for eyes [B] medicines [C] metal articles [D] hair-dye
+
+13) Egyptians were using ____ to prepare make-up for eyes.
+
+[A] nanoaluminium [B] nanocopper [C] nanosteel [D] nanolead
+
+14) The sword of Tipu Sultan was made of...
+
+[A] nanolead [B] nanoaluminium [C] Damascus steel [D] Pure iron
+
+_____ contains nanoparticles prepared by using biologically processed metal ores.
+
+[A] Homeopathic medicines [B] Modern antibiotics [C] Ayurvedic 'Bhasmas' [D] Modern cosmetics
+
+15) Who was the first scientist to describe that substances having nanodimensions possess altogether different and unique properties?
+
+[A] Richard Feynmann [B] Eric Drexler [C] Archimedes [D] Michael Faraday
+
+16) Which of the following does not apply to nanotechnology?
+
+[A] It is a general-purpose technology. [B] It can be called Green technology. [C] Newtonian mechanics can describe it. [D] It involves rearrangement of atoms.
+
+17) The diameter of human hair is ____ nm.
+
+[A] 50,000 [B] 75,000 [C] 90,000 [D] 1,00,000
+
+18) The diameter of human hair is ____ m.
+
+[A] 5 x 10-8 [B] 5 x 10-7 [C] 5 x 10-6 [D] 5 x 10-5
+
+19) The cut-off limit of human eye is ____ nm.
+
+[A] 2,000 [B] 5,000 [C] 10,000 [D] 50,000
+
+20) The size of E.Coli bacteria is ____ nm.
+
+[A] 2,000 [B] 5,000 [C] 50 [D] 90
+
+21) The size of RBC is ____ nm.
+
+[A] 50 [B] 90 [C] 2,000 [D] 5,000
+
+22) The thickness of a transistor is ____ nm.
+
+[A] 50 [B] 90 [C] 2,000 [D] 5,000
+
+23) The size of a virus is ____ nm.
+
+[A] 2 [B] 20 [C] 50 [D] 2000
+
+24) The diameter of a bucky ball is ____ nm.
+
+[A] 1,000 [B] 100 [C] 10 [D] 1
+
+25) The width of a typical DNA molecule is ____ nm.
+
+[A] 1 [B] 2 [C] 5 [D] 10
+
+26) 1 micrometer (micron) = ______ m.
+
+[A] 10-9 [B] 10-8 [C] 10-7 [D] 10-6
+
+27) 1 micrometer (micron) = ______ nm.
+
+[A] 1,000 [B] 100 [C] 10 [D] 0.01
+
+28) The full form of STM is...
+
+[A] Scanning Tunneling Microscope [B] Scientific Technical Microscope [C] Systematic Technical Microscope [D] Super Tensile Microscope
+
+29) What does 'F' stand for in AFM?
+
+[A] Fine [B] Front [C] Force [D] Flux
+
+30) Which ratio decides the efficiency of nanosubstances?
+
+[A] Weight/volume [B] Surface area/volume [C] Volume/weight [D] Pressure/volume
+
+31) The surface area to volume ratio of a sphere with radius 1 cm is R1 and that of a sphere with radius 5 cm is R2. Then R1 = ____ R2.
+
+[A] 3 [B] 1/3 [C] 5 [D] 1/5
+
+32) The surface area to volume ratio of a cube with side 1 unit is R1 and that of a cube with side 10 units is R2. Then R2 = ____ R1.
+
+[A] 1/10 [B] 10 [C] 1/100 [D] 100
+
+33) The two important properties of nanosubstances are...
+
+34) [A] pressure and friction [B] sticking and friction [C] sticking and temperature [D] temperature and friction
+
+35) With the help of _____, Robert F. Curl and others discovered fullerene.
+
+[A] electron microscope [B] magnetic resonance [C] condensation technique [D] mass spectrograph
+
+36) In the structure of fullerene each carbon atom forms covalent bonds with ____ other carbon atoms.
+
+[A] one [B] two [C] three [D] four
+
+37) Who had invented the famous 'Geodesic' dome structure?
+
+[A] Eric Drexler [B] Buckminster Fuller [C] Richard Smalley [D] Faraday
+
+38) The largest cluster of carbon atoms in Bucky balls known till today consists of ____ carbon atoms.
+
+[A] 60 [B] 75 [C] 180 [D] 540
+
+39) The smallest cluster of carbon atoms in Bucky balls known till today consists of ____ carbon atoms.
+
+[A] 75 [B] 60 [C] 20 [D] 15
+
+40) The tensile strength of an MWNT is ____ Pa.
+
+[A] 63 x 106 [B] 63 x 107 [C] 63 x 108 [D] 63 x 109
+
+41) The compressive strength of a nanotube _____ its tensile strength.
+
+[A] is less than [B] is greater than [C] is equal to [D] may be greater than
+
+42) The hardness of a standard SWNT is ____ Pa.
+
+[A] 63 x 106 [B] 25 x 106 [C] 25 x 109 [D] 25 x 10-9
+
+43) The bulk modulus of a standard SWNT is ____ that of diamond.
+
+[A] less than [B] greater than [C] equal to [D] less than or equal to
+
+44) How much current can be passed through 1 cm2 cross-section of a metal nanotube?
+
+[A] 10-9 A [B] 109 A [C] 1000 A [D] 0.001 A
+
+45) The electrical conductivity of a nanotube is ____ times that of copper.
+
+[A] 10 [B] 100 [C] 1000 [D] 1/100
+
+46) An MWNT possesses electrical superconductivity up to temperature of...
+
+[A] 12 K [B] 12°C [C] 100 K [D] 100°
+
+47) At room temperature, the thermal conductivity of a copper wire is ____ watt/(m.K).
+
+[A] 3500 [B] 350 [C] 385 [D] 38.5
+
+48) In radial direction, the thermal conductivity of a nanotube is ____ watt/(m.K).
+
+[A] 3500 [B] 385 [C] 350 [D] 0
+
+49) The thermal stability of a nanotube is seen up to ____ K in vacuum.
+
+[A] 100 [B] 1000 [C] 2200 [D] 3100
+
+50) The thermal conductivity of an SWNT along length is ____ watt/(m.K).
+
+[A] 35 [B] 350 [C] 385 [D] 3500
+
+51) The size of a quantum dot is ____ nm.
+
+[A] 5 [B] 10 [C] 50 [D] 100
+
+52) The wavelength of visible light is ____ nm.
+
+[A] 40-70 [B]  400-700 [C] 4000-7000 [D] 40000-70000
+
+53) The capacity of a normal human eye to see the smallest object is ____ μm.
+
+[A] 10000 [B] 1000 [C] 100 [D] 10
+
+54) The width of a carbon nanotube is ____ nm.
+
+[A] 1 [B] 1.3 [C] 2.5 [D] 10
+
+55) The thermal stability of a nanotube is seen up to ____ K in air.
+
+[A] 100 [B] 1000 [C] 2000 [D] 3100
+
+56) Nanoparticles of which substance were found on the surface of the sword of Tipu Sultan?
+
+[A] Gold [B] Lead [C] Carbon [D] Silicon
+
+57) Nano particles of which atom are used to control collateral damage due to explosion?
+
+[A] Copper [B] Aluminium [C] Carbon [D] Lead
+
+58) Who prepared and explained nanotubes for the first time?
+
+[A] Sumio Tijima [B] Richard Smalley [C] Eric Drexler [D] Richard Feynmann
+
+59) Which of the following statement/s is are true?
+
+i.Volume to surface area ratio is very large for nanomaterials.
+
+ii.The cut-off limit of human eye is 10-5 m.
+
+iii.Hardness of a SWNT is about 63 x 109 Pa.
+
+iv.Carbon nanotubes are cylindrical fullerenes.
+
+[A] All four [B] (ii) and (iv) [C] (i), (ii) and (iv) [D] (ii), (iii) and (iv)
+
+60) Match the objects in Part A with their size in Part B.
+
+http://2.bp.blogspot.com/-TeK9kk4nlG0/U0bS6QwN2AI/AAAAAAAAAMQ/fdl4T1qMOPY/s1600/NT.mcq.2.jpg
+
+[A] 1-a, 2-c, 3-d, 4-b [B] 1-b, 2-a, 3-c, 4-d [C] 1-a, 2-d, 3-b, 4-c [D] 1-c, 2-d, 3-b, 4-a
+
+61) Match the items in Part A with appropriate alternative in Part B. 
+
+http://4.bp.blogspot.com/-EKsTPPNaezU/U0bTHaVlpVI/AAAAAAAAAMY/jC1ELTTzwK8/s1600/NT.mcq.1.jpg
+
+[A] 1-c, 2-d, 3-a [B] 1-c, 2-b, 3-a [C] 1-c, 2-a, 3-b [D] 1-a, 2-b, 3-d
+
+62) The suffix '-ene' in the name of fullerene shows the presence of _____ in the molecule.
+
+[A] one triple bond [B] one double bond [C] two single bonds [D] two triple bonds
+
+ANSWERS
+
+(1) A (2) C (3) C (4) A (5) D (6) A (7) C (8) B (9) A (10) B (11) A (12) D (13) D (14) C (15) C (16) D (17) C (18) A (19) D (20) C (21) A (22) D (23) B (24) C (25) D (26) B (27) D (28) A (29) A (30) C (31) B (32) C (33) A (34) B (35) D (36) C (37) B (38) D (39) C (40) D (41) A (42) C (43) B (44) B (45) C (46) A (47) C (48) D (49) D (50) D (51) A (52) B (53) D (54) B (55) B (56) C (57) B (58) A (59) D (60) C (61) C (62) B
