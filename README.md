@@ -130,822 +130,822 @@ Some useful links sent to help in research purpose:
 
     · https://www.youtube.com/watch?v=emEua2eJp1U
 
-Some questions related to Nano Electronics for practice:
+Some MCQ questions related to Nano Electronics for practice:
 
 1. Medieval stained glass  are the example of
 
-a. Painting
+    a. Painting
 
-b. Digital Graphics
+    b. Digital Graphics
 
-c. Nanotecnology (Correct answer)
+    c. Nanotecnology (Correct answer)
 
-d. None of above
+    d. None of above
 
 2. Method start with atoms or molecules and build up to nanostructures called
 
-a. Bottom up approach (Correct answer)
+    a. Bottom up approach (Correct answer)
 
-b. Top down approach
+    b. Top down approach
 
-c. None of above
+    c. None of above
 
 3. Example for Top down method for the nano structure is
 
-a. Lithography (Correct answer)
+    a. Lithography (Correct answer)
 
-b. Sol gel method
+    b. Sol gel method
 
-c. Precipitation method
+    c. Precipitation method
 
-d. None of above
+    d. None of above
 
 4. Scanning electron microscope technique can be used
 
-a. To measure the size of the particle
+    a. To measure the size of the particle
 
-b. Charge on the particle
+    b. Charge on the particle
 
-c. Shape and size of the particle (Correct answer)
+    c. Shape and size of the particle (Correct answer)
 
-d. None of above
+    d. None of above
 
 5. Example for 3D nano structure is
 
-a. Nano fiber
+    a. Nano fiber
 
-b. Nano thin film
+    b. Nano thin film
 
-c. Quantum Dots (Correct answer)
+    c. Quantum Dots (Correct answer)
 
-d. None of above
+    d. None of above
 
 6. A bucky ball carries
 
-a. 50 Carbon
+    a. 50 Carbon
 
-b. 60 Carbon (Correct answer)
+    b. 60 Carbon (Correct answer)
 
-c. 70 Carbon
+    c. 70 Carbon
 
-d. None of above
+    d. None of above
 
 7. The full name of AFM is in the area of nano technology
 
-a. American Federation of Musicians
+    a. American Federation of Musicians
 
-b. Atom free microscope
+    b. Atom free microscope
 
-c. Atomic Force Microscope (Correct answer)
+    c. Atomic Force Microscope (Correct answer)
 
-d. None of above
+    d. None of above
 
 8. What is the size of MEMS
 
-a. 10^-6 to 10^-4 m (Correct answer)
+    a. 10^-6 to 10^-4 m (Correct answer)
 
-b. 10^-8 to 10^-4 m
+    b. 10^-8 to 10^-4 m
 
-c. 10^-10 to 10^-4 m
+    c. 10^-10 to 10^-4 m
 
-d. None of above
+    d. None of above
 
 9. What is size of nano shell
 
-a. 1 nm
+    a. 1 nm
 
-b. 10 nm
+    b. 10 nm
 
-c. 100 nm (Correct answer)
+    c. 100 nm (Correct answer)
 
-d. None of above
+    d. None of above
 
 10. Who gave the term “Nanotechnology”
 
-a. Richard Feynmann
+    a. Richard Feynmann
 
-b. Eric Drexler (Correct answer)
+    b. Eric Drexler (Correct answer)
 
-c. Sumio Tijima
+    c. Sumio Tijima
 
-d. Richard Smalley
+    d. Richard Smalley
 
 11. "There is a plenty of room at the bottom." This was stated by
 
-A. Issac Newton
+    A. Issac Newton
 
-B. Albert Einstein
+    B. Albert Einstein
 
-C. Richard Feynman (Correct answer)
+    C. Richard Feynman (Correct answer)
 
-D. Eric Drexler
+    D. Eric Drexler
 
 12. 1 nanometre= _______ cm.
 
-A. 10^(-9)
+    A. 10^(-9)
 
-B. 10^(-8)
+    B. 10^(-8)
 
-C. 10^(-7) (Correct answer)
+    C. 10^(-7) (Correct answer)
 
-D. 10^(-6)
+    D. 10^(-6)
 
 13. The size of E.coli bacteria is ______ nm
 
-A. 75000
+    A. 75000
 
-B. 2000 (Correct answer)
+    B. 2000 (Correct answer)
 
-C. 200
+    C. 200
 
-D. 5
+    D. 5
 
 14. The diameter of human hair is _______ m
 
-A. 75000
+    A. 75000
 
-B. 75
+    B. 75
 
-C. 7.5 x 10^(-5) (Correct answer)
+    C. 7.5 x 10^(-5) (Correct answer)
 
-D. 7.5 x 10^(-9)
+    D. 7.5 x 10^(-9)
 
 15. The most important property of nanomaterials is
 
-A. force
+    A. force
 
-B. friction (Correct answer)
+    B. friction (Correct answer)
 
-C. pressure
+    C. pressure
 
-D. temperature
+    D. temperature
 
 16. The diameter of a bucky ball is about ______
 
-A. 1 Ao
+    A. 1 Ao
 
-B. 100 Ao
+    B. 100 Ao
 
-C. 1 nm (Correct answer)
+    C. 1 nm (Correct answer)
 
-D. 10 nm
+    D. 10 nm
 
 17. A bucky ball is a molecule consisting of ___ carbon atoms
 
-A. 50
+    A. 50
 
-B. 60
+    B. 60
 
-C. 75 (Correct answer)
+    C. 75 (Correct answer)
 
-D. 100
+    D. 100
 
 18. The cut-off limit of human eye to see is _____ nm
 
-A. 10
+    A. 10
 
-B. 100
+    B. 100
 
-C. 1000
+    C. 1000
 
-D. 10000 (Correct answer)
+    D. 10000 (Correct answer)
 
 19. 1 meter = ______ nm.
 
-A. 10^9 (Correct answer)
+    A. 10^9 (Correct answer)
 
-B. 10^(-9)
+    B. 10^(-9)
 
-C. 10^10
+    C. 10^10
 
-D. 10^(-10)
+    D. 10^(-10)
 
 20. The diameter of a bucky ball is about ______
 
-A. 1 Ao
+    A. 1 Ao
 
-B. 10 Ao (Correct answer)
+    B. 10 Ao (Correct answer)
 
-C. 100 Ao
+    C. 100 Ao
 
-D. 1000 Ao
+    D. 1000 Ao
 
 21. The diameter of hydrogen atom is ______ nm.
 
-A. 10
+    A. 10
 
-B. 1
+    B. 1
 
-C. 0.1 (Correct answer)
+    C. 0.1 (Correct answer)
 
-D. 0.01
+    D. 0.01
 
 22. The size of a quantum dot is ______ m.
 
-A. 5
+    A. 5
 
-B. 5 x 10^(-9) (Correct answer)
+    B. 5 x 10^(-9) (Correct answer)
 
-C. 5 x 10^(-10)
+    C. 5 x 10^(-10)
 
-D. 5 x 10^(-11)
+    D. 5 x 10^(-11)
 
 23. 20 micron = ______ nm
 
-A. 20 x 10^(-9)
+    A. 20 x 10^(-9)
 
-B. 20 x 10^9
+    B. 20 x 10^9
 
-C. 200
+    C. 200
 
-D. 20000 (Correct answer)
+    D. 20000 (Correct answer)
 
 24. 1 mm = ______ nm
 
-A. 10^6 (Correct answer)
+    A. 10^6 (Correct answer)
 
-B. 10^(-6)
+    B. 10^(-6)
 
-C. 10^7
+    C. 10^7
 
-D. 10^(-7)
+    D. 10^(-7)
 
 25. The hardest material found in nature is ______.
 
-A. steel
+    A. steel
 
-B. topaz
+    B. topaz
 
-C. diamond (Correct answer)
+    C. diamond (Correct answer)
 
-D. quartz
+    D. quartz
 
 26. ______ are the extentions of bucky balls.
 
-A. Geodesic domes
+    A. Geodesic domes
 
-B. Hexagons
+    B. Hexagons
 
-C. Carbon nanotubes (Correct answer)
+    C. Carbon nanotubes (Correct answer)
 
-D. AFM and STM
+    D. AFM and STM
 
 27. Nanotechnology, in other words, is
 
-A. Carbon engineering
+    A. Carbon engineering
 
-B. Atomic engineering (Correct answer)
+    B. Atomic engineering (Correct answer)
 
-C. Small technology
+    C. Small technology
 
-D. Microphysics
+    D. Microphysics
 
 28. The width of carbon nanotube is ______nm.
 
-A. 1
+    A. 1
 
-B. 1.3 (Correct answer)
+    B. 1.3 (Correct answer)
 
-C. 1.55
+    C. 1.55
 
-D. 10
+    D. 10
 
 29. The diameter of fly ash particles is _____ μm
 
-A. 5-10
+    A. 5-10
 
-B. 10-20 (Correct answer)
+    B. 10-20 (Correct answer)
 
-C. 20-30
+    C. 20-30
 
-D. 100
+    D. 100
 
 30. The tensile strength of a carbon nanotube is _____ times that of steel.
 
-A. 10
+    A. 10
 
-B. 25
+    B. 25
 
-C. 100 (Correct answer)
+    C. 100 (Correct answer)
 
-D. 1000
+    D. 1000
 
 31. The ratio of thermal conductivity of silver to that of a carbon nanotube is _____.
 
-A. 100 : 1
+    A. 100 : 1
 
-B. 1 : 100
+    B. 1 : 100
 
-C. 10 : 1
+    C. 10 : 1
 
-D. 1 : 10 (Correct answer)
+    D. 1 : 10 (Correct answer)
 
 32. In a bucky ball, each carbon atom is bound to _____ adjacent carbon atoms.
 
-A. 1
+    A. 1
 
-B. 2
+    B. 2
 
-C. 3 (Correct answer)
+    C. 3 (Correct answer)
 
-D. 4
+    D. 4
 
 33. The size of red and white blood cells is in the range of _____μm.
 
-A. 2-5 (Correct answer)
+    A. 2-5 (Correct answer)
 
-B. 5-7
+    B. 5-7
 
-C. 7-10
+    C. 7-10
 
-D. 10-15
+    D. 10-15
 
-1) 10 nm = _____ m
+34. 10 nm = _____ m
 
-[A] 10-8 (Correct answer) [B] 10-7 [C] 10-9 [D] 10-10
+    [A] 10^-8 (Correct answer) [B] 10^-7 [C] 10^-9 [D] 10^-10
 
-2) The size of nanoparticles is between _____ nm.
+35. The size of nanoparticles is between _____ nm.
 
-[A] 100 to 1000 [B] 0.1 to 10 [C] 1 to 100 (Correct answer) [D] 0.01 to 1
+    [A] 100 to 1000 [B] 0.1 to 10 [C] 1 to 100 (Correct answer) [D] 0.01 to 1
 
-3) The diameter of hydrogen atom is...
+36. The diameter of hydrogen atom is...
 
-[A] 1 [B] 10 [C] 0.1 (Correct answer) [D] 0.01
+    [A] 1 [B] 10 [C] 0.1 (Correct answer) [D] 0.01
 
-4) Carbon atoms make ____ type of bond with other carbon atoms.
+37. Carbon atoms make ____ type of bond with other carbon atoms.
 
-[A] covalent (Correct answer) [B] ionic [C] metallic [D] hydrogen
+    [A] covalent (Correct answer) [B] ionic [C] metallic [D] hydrogen
 
-5) Fullerene or bucky ball is made up of ____ carbon atoms.
+38. Fullerene or bucky ball is made up of ____ carbon atoms.
 
-[A] 100 [B] 20 [C] 75 [D] 60 (Correct answer)
+    [A] 100 [B] 20 [C] 75 [D] 60 (Correct answer)
 
-6) The thermal conductivity of a standard SWNT along its length is ____ watt/(m.K)
+39. The thermal conductivity of a standard SWNT along its length is ____ watt/(m.K)
 
-[A] 3500 (Correct answer) [B] 385 [C] 35000 [D] 35
+    [A] 3500 (Correct answer) [B] 385 [C] 35000 [D] 35
 
-7) 1 m = _____ nm.
+40. 1 m = _____ nm.
 
-[A] 10-9 [B] 10-8 [C] 109 (Correct answer) [D] 108
+    [A] 10^-9 [B] 10^-8 [C] 10^9 (Correct answer) [D] 10^8
 
-8) "There is plenty of room at the bottom." This was stated by _____.
+41. "There is plenty of room at the bottom." This was stated by _____.
 
-[A] Eric Drexler [B] Richard Feynmann (Correct answer) [C] Harold Croto [D] Richard Smalley
+    [A] Eric Drexler [B] Richard Feynmann (Correct answer) [C] Harold Croto [D] Richard Smalley
 
-9) Who coined the word 'nanotechnology'?
+42. Who coined the word 'nanotechnology'?
 
-[A] Eric Drexler (Correct answer) [B] Richard Feynmann [C] Sumio Tijima [D] Richard Smalley
+    [A] Eric Drexler (Correct answer) [B] Richard Feynmann [C] Sumio Tijima [D] Richard Smalley
 
-10) According to the definition by CRN, nanotechnology is...
+43. According to the definition by CRN, nanotechnology is...
 
-[A] mechanical engineering [B] atomic engineering (Correct answer) [C] Newtonian mechanics [D] micro-electronics
+    [A] mechanical engineering [B] atomic engineering (Correct answer) [C] Newtonian mechanics [D] micro-electronics
 
-11) Nanoscience can be studied with the help of...
+44. Nanoscience can be studied with the help of...
 
-[A] quantum mechanics (Correct answer) [B] Newtonian mechanics [C] macro-dynamics [D] geophysics
+    [A] quantum mechanics (Correct answer) [B] Newtonian mechanics [C] macro-dynamics [D] geophysics
 
-12) Greeks and Romans had used nanoparticles in the manufacture of...
+45. Greeks and Romans had used nanoparticles in the manufacture of...
 
-[A] cosmetics for eyes [B] medicines [C] metal articles [D] hair-dye (Correct answer)
+    [A] cosmetics for eyes [B] medicines [C] metal articles [D] hair-dye (Correct answer)
 
-13) Egyptians were using ____ to prepare make-up for eyes.
+46. Egyptians were using ____ to prepare make-up for eyes.
 
-[A] nanoaluminium [B] nanocopper [C] nanosteel [D] nanolead (Correct answer)
+    [A] nanoaluminium [B] nanocopper [C] nanosteel [D] nanolead (Correct answer)
 
-14) The sword of Tipu Sultan was made of...
+47. The sword of Tipu Sultan was made of...
 
-[A] nanolead [B] nanoaluminium [C] Damascus steel (Correct answer) [D] Pure iron
+    [A] nanolead [B] nanoaluminium [C] Damascus steel (Correct answer) [D] Pure iron
 
-15) _____ contains nanoparticles prepared by using biologically processed metal ores.
+48. _____ contains nanoparticles prepared by using biologically processed metal ores.
 
-[A] Homeopathic medicines [B] Modern antibiotics [C] Ayurvedic 'Bhasmas' (Correct answer) [D] Modern cosmetics
+    [A] Homeopathic medicines [B] Modern antibiotics [C] Ayurvedic 'Bhasmas' (Correct answer) [D] Modern cosmetics
 
-16) Who was the first scientist to describe that substances having nanodimensions possess altogether different and unique properties?
+49. Who was the first scientist to describe that substances having nanodimensions possess altogether different and unique properties?
 
-[A] Richard Feynmann [B] Eric Drexler [C] Archimedes [D] Michael Faraday (Correct answer)
+    [A] Richard Feynmann [B] Eric Drexler [C] Archimedes [D] Michael Faraday (Correct answer)
 
-17) Which of the following does not apply to nanotechnology?
+50. Which of the following does not apply to nanotechnology?
 
-[A] It is a general-purpose technology. [B] It can be called Green technology. [C] Newtonian mechanics can describe it. (Correct answer) [D] It involves rearrangement of atoms.
+    [A] It is a general-purpose technology. [B] It can be called Green technology. [C] Newtonian mechanics can describe it. (Correct answer) [D] It involves rearrangement of atoms.
 
-18) The diameter of human hair is ____ nm.
+51. The diameter of human hair is ____ nm.
 
-[A] 50,000 (Correct answer) [B] 75,000 [C] 90,000 [D] 1,00,000
+    [A] 50,000 (Correct answer) [B] 75,000 [C] 90,000 [D] 1,00,000
 
-19) The diameter of human hair is ____ m.
+52. The diameter of human hair is ____ m.
 
-[A] 5 x 10-8 [B] 5 x 10-7 [C] 5 x 10-6 [D] 5 x 10-5 (Correct answer)
+    [A] 5 x 10^-8 [B] 5 x 10^-7 [C] 5 x 10^-6 [D] 5 x 10^-5 (Correct answer)
 
-20) The cut-off limit of human eye is ____ nm.
+53. The cut-off limit of human eye is ____ nm.
 
-[A] 2,000 [B] 5,000 [C] 10,000 (Correct answer) [D] 50,000
+    [A] 2,000 [B] 5,000 [C] 10,000 (Correct answer) [D] 50,000
 
-21) The size of E.Coli bacteria is ____ nm.
+54. The size of E.Coli bacteria is ____ nm.
 
-[A] 2,000 (Correct answer) [B] 5,000 [C] 50 [D] 90
+    [A] 2,000 (Correct answer) [B] 5,000 [C] 50 [D] 90
 
-22) The size of RBC is ____ nm.
+55. The size of RBC is ____ nm.
 
-[A] 50 [B] 90 [C] 2,000 [D] 5,000 (Correct answer)
+    [A] 50 [B] 90 [C] 2,000 [D] 5,000 (Correct answer)
 
-23) The thickness of a transistor is ____ nm.
+56. The thickness of a transistor is ____ nm.
 
-[A] 50 [B] 90 (Correct answer) [C] 2,000 [D] 5,000
+    [A] 50 [B] 90 (Correct answer) [C] 2,000 [D] 5,000
 
-24) The size of a virus is ____ nm.
+57. The size of a virus is ____ nm.
 
-[A] 2 [B] 20 [C] 50 (Correct answer) [D] 2000
+    [A] 2 [B] 20 [C] 50 (Correct answer) [D] 2000
 
-25) The diameter of a bucky ball is ____ nm.
+58. The diameter of a bucky ball is ____ nm.
 
-[A] 1,000 [B] 100 [C] 10 [D] 1 (Correct answer)
+    [A] 1,000 [B] 100 [C] 10 [D] 1 (Correct answer)
 
-26) The width of a typical DNA molecule is ____ nm.
+59. The width of a typical DNA molecule is ____ nm.
 
-[A] 1 [B] 2 (Correct answer) [C] 5 [D] 10
+    [A] 1 [B] 2 (Correct answer) [C] 5 [D] 10
 
-27) 1 micrometer (micron) = ______ m.
+60. 1 micrometer (micron) = ______ m.
 
-[A] 10-9 [B] 10-8 [C] 10-7 [D] 10-6 (Correct answer)
+    [A] 10^-9 [B] 10^-8 [C] 10^-7 [D] 10^-6 (Correct answer)
 
-28) 1 micrometer (micron) = ______ nm.
+61. 1 micrometer (micron) = ______ nm.
 
-[A] 1,000 (Correct answer) [B] 100 [C] 10 [D] 0.01
+    [A] 1,000 (Correct answer) [B] 100 [C] 10 [D] 0.01
 
-29) The full form of STM is...
+62. The full form of STM is...
 
-[A] Scanning Tunneling Microscope (Correct answer) [B] Scientific Technical Microscope [C] Systematic Technical Microscope [D] Super Tensile Microscope
+    [A] Scanning Tunneling Microscope (Correct answer) [B] Scientific Technical Microscope [C] Systematic Technical Microscope [D] Super Tensile Microscope
 
-30) What does 'F' stand for in AFM?
+63. What does 'F' stand for in AFM?
 
-[A] Fine [B] Front [C] Force (Correct answer) [D] Flux
+    [A] Fine [B] Front [C] Force (Correct answer) [D] Flux
 
-31) Which ratio decides the efficiency of nanosubstances?
+64. Which ratio decides the efficiency of nanosubstances?
 
-[A] Weight/volume [B] Surface area/volume (Correct answer) [C] Volume/weight [D] Pressure/volume
+    [A] Weight/volume [B] Surface area/volume (Correct answer) [C] Volume/weight [D] Pressure/volume
 
-32) The surface area to volume ratio of a sphere with radius 1 cm is R1 and that of a sphere with radius 5 cm is R2. Then R1 = ____ R2.
+65. The surface area to volume ratio of a sphere with radius 1 cm is R1 and that of a sphere with radius 5 cm is R2. Then R1 = ____ R2.
 
-[A] 3 [B] 1/3 [C] 5 (Correct answer) [D] 1/5
+    [A] 3 [B] 1/3 [C] 5 (Correct answer) [D] 1/5
 
-33) The surface area to volume ratio of a cube with side 1 unit is R1 and that of a cube with side 10 units is R2. Then R2 = ____ R1.
+66. The surface area to volume ratio of a cube with side 1 unit is R1 and that of a cube with side 10 units is R2. Then R2 = ____ R1.
 
-[A] 1/10 (Correct answer) [B] 10 [C] 1/100 [D] 100
+    [A] 1/10 (Correct answer) [B] 10 [C] 1/100 [D] 100
 
-34) The two important properties of nanosubstances are...
+67. The two important properties of nanosubstances are...
 
-[A] pressure and friction [B] sticking and friction (Correct answer) [C] sticking and temperature [D] temperature and friction
+    [A] pressure and friction [B] sticking and friction (Correct answer) [C] sticking and temperature [D] temperature and friction
 
-35) With the help of _____, Robert F. Curl and others discovered fullerene.
+68. With the help of _____, Robert F. Curl and others discovered fullerene.
 
-[A] electron microscope [B] magnetic resonance [C] condensation technique [D] mass spectrograph (Correct answer)
+    [A] electron microscope [B] magnetic resonance [C] condensation technique [D] mass spectrograph (Correct answer)
 
-36) In the structure of fullerene each carbon atom forms covalent bonds with ____ other carbon atoms.
+69. In the structure of fullerene each carbon atom forms covalent bonds with ____ other carbon atoms.
 
-[A] one [B] two [C] three (Correct answer) [D] four
+    [A] one [B] two [C] three (Correct answer) [D] four
 
-37) Who had invented the famous 'Geodesic' dome structure?
+70. Who had invented the famous 'Geodesic' dome structure?
 
-[A] Eric Drexler [B] Buckminster Fuller (Correct answer) [C] Richard Smalley [D] Faraday
+    [A] Eric Drexler [B] Buckminster Fuller (Correct answer) [C] Richard Smalley [D] Faraday
 
-38) The largest cluster of carbon atoms in Bucky balls known till today consists of ____ carbon atoms.
+71. The largest cluster of carbon atoms in Bucky balls known till today consists of ____ carbon atoms.
 
-[A] 60 [B] 75 [C] 180 [D] 540 (Correct answer)
+    [A] 60 [B] 75 [C] 180 [D] 540 (Correct answer)
 
-39) The smallest cluster of carbon atoms in Bucky balls known till today consists of ____ carbon atoms.
+72. The smallest cluster of carbon atoms in Bucky balls known till today consists of ____ carbon atoms.
 
-[A] 75 [B] 60 [C] 20 (Correct answer) [D] 15
+    [A] 75 [B] 60 [C] 20 (Correct answer) [D] 15
 
-40) The tensile strength of an MWNT is ____ Pa.
+73. The tensile strength of an MWNT is ____ Pa.
 
-[A] 63 x 106 [B] 63 x 107 [C] 63 x 108 [D] 63 x 109 (Correct answer)
+    [A] 63 x 10^6 [B] 63 x 10^7 [C] 63 x 10^8 [D] 63 x 10^9 (Correct answer)
 
-41) The compressive strength of a nanotube _____ its tensile strength.
+74. The compressive strength of a nanotube _____ its tensile strength.
 
-[A] is less than (Correct answer) [B] is greater than [C] is equal to [D] may be greater than
+    [A] is less than (Correct answer) [B] is greater than [C] is equal to [D] may be greater than
 
-42) The hardness of a standard SWNT is ____ Pa.
+75. The hardness of a standard SWNT is ____ Pa.
 
-[A] 63 x 106 [B] 25 x 106 [C] 25 x 109 (Correct answer) [D] 25 x 10-9
+    [A] 63 x 10^6 [B] 25 x 10^6 [C] 25 x 10^9 (Correct answer) [D] 25 x 10^-9
 
-43) The bulk modulus of a standard SWNT is ____ that of diamond.
+76. The bulk modulus of a standard SWNT is ____ that of diamond.
 
-[A] less than [B] greater than (Correct answer) [C] equal to [D] less than or equal to
+    [A] less than [B] greater than (Correct answer) [C] equal to [D] less than or equal to
 
-44) How much current can be passed through 1 cm2 cross-section of a metal nanotube?
+77. How much current can be passed through 1 cm2 cross-section of a metal nanotube?
 
-[A] 10-9 A [B] 109 A (Correct answer) [C] 1000 A [D] 0.001 A
+    [A] 10^-9 A [B] 10^9 A (Correct answer) [C] 1000 A [D] 0.001 A
 
-45) The electrical conductivity of a nanotube is ____ times that of copper.
+78. The electrical conductivity of a nanotube is ____ times that of copper.
 
-[A] 10 [B] 100 [C] 1000 (Correct answer) [D] 1/100
+    [A] 10 [B] 100 [C] 1000 (Correct answer) [D] 1/100
 
-46) An MWNT possesses electrical superconductivity up to temperature of...
+79. An MWNT possesses electrical superconductivity up to temperature of...
 
-[A] 12 K (Correct answer) [B] 12°C [C] 100 K [D] 100°
+    [A] 12 K (Correct answer) [B] 12°C [C] 100 K [D] 100°
 
-47) At room temperature, the thermal conductivity of a copper wire is ____ watt/(m.K).
+80. At room temperature, the thermal conductivity of a copper wire is ____ watt/(m.K).
 
-[A] 3500 [B] 350 [C] 385 (Correct answer) [D] 38.5
+    [A] 3500 [B] 350 [C] 385 (Correct answer) [D] 38.5
 
-48) In radial direction, the thermal conductivity of a nanotube is ____ watt/(m.K).
+81. In radial direction, the thermal conductivity of a nanotube is ____ watt/(m.K).
 
-[A] 3500 [B] 385 [C] 350 [D] 0 (Correct answer)
+    [A] 3500 [B] 385 [C] 350 [D] 0 (Correct answer)
 
-49) The thermal stability of a nanotube is seen up to ____ K in vacuum.
+82. The thermal stability of a nanotube is seen up to ____ K in vacuum.
 
-[A] 100 [B] 1000 [C] 2200 [D] 3100 (Correct answer)
+    [A] 100 [B] 1000 [C] 2200 [D] 3100 (Correct answer)
 
-50) The thermal conductivity of an SWNT along length is ____ watt/(m.K).
+83. The thermal conductivity of an SWNT along length is ____ watt/(m.K).
 
-[A] 35 [B] 350 [C] 385 [D] 3500 (Correct answer)
+    [A] 35 [B] 350 [C] 385 [D] 3500 (Correct answer)
 
-51) The size of a quantum dot is ____ nm.
+84. The size of a quantum dot is ____ nm.
 
-[A] 5 (Correct answer) [B] 10 [C] 50 [D] 100
+    [A] 5 (Correct answer) [B] 10 [C] 50 [D] 100
 
-52) The wavelength of visible light is ____ nm.
+85. The wavelength of visible light is ____ nm.
 
-[A] 40-70 [B]  400-700 (Correct answer) [C] 4000-7000 [D] 40000-70000
+    [A] 40-70 [B]  400-700 (Correct answer) [C] 4000-7000 [D] 40000-70000
 
-53) The capacity of a normal human eye to see the smallest object is ____ μm.
+86. The capacity of a normal human eye to see the smallest object is ____ μm.
 
-[A] 10000 [B] 1000 [C] 100 [D] 10 (Correct answer)
+    [A] 10000 [B] 1000 [C] 100 [D] 10 (Correct answer)
 
-54) The width of a carbon nanotube is ____ nm.
+87. The width of a carbon nanotube is ____ nm.
 
-[A] 1 [B] 1.3 (Correct answer) [C] 2.5 [D] 10
+    [A] 1 [B] 1.3 (Correct answer) [C] 2.5 [D] 10
 
-55) The thermal stability of a nanotube is seen up to ____ K in air.
+88. The thermal stability of a nanotube is seen up to ____ K in air.
 
-[A] 100 [B] 1000 (Correct answer) [C] 2000 [D] 3100
+    [A] 100 [B] 1000 (Correct answer) [C] 2000 [D] 3100
 
-56) Nanoparticles of which substance were found on the surface of the sword of Tipu Sultan?
+89. Nanoparticles of which substance were found on the surface of the sword of Tipu Sultan?
 
-[A] Gold [B] Lead [C] Carbon (Correct answer) [D] Silicon
+    [A] Gold [B] Lead [C] Carbon (Correct answer) [D] Silicon
 
-57) Nano particles of which atom are used to control collateral damage due to explosion?
+90. Nano particles of which atom are used to control collateral damage due to explosion?
 
-[A] Copper [B] Aluminium (Correct answer) [C] Carbon [D] Lead
+    [A] Copper [B] Aluminium (Correct answer) [C] Carbon [D] Lead
 
-58) Who prepared and explained nanotubes for the first time?
+91. Who prepared and explained nanotubes for the first time?
 
-[A] Sumio Tijima (Correct answer) [B] Richard Smalley [C] Eric Drexler [D] Richard Feynmann
+    [A] Sumio Tijima (Correct answer) [B] Richard Smalley [C] Eric Drexler [D] Richard Feynmann
 
-59) Which of the following statement/s is are true?
+92. Which of the following statement/s is are true?
 
-i.Volume to surface area ratio is very large for nanomaterials.
+    i.Volume to surface area ratio is very large for nanomaterials.
 
-ii.The cut-off limit of human eye is 10-5 m.
+    ii.The cut-off limit of human eye is 10-5 m.
 
-iii.Hardness of a SWNT is about 63 x 109 Pa.
+    iii.Hardness of a SWNT is about 63 x 109 Pa.
 
-iv.Carbon nanotubes are cylindrical fullerenes.
+    iv.Carbon nanotubes are cylindrical fullerenes.
 
-[A] All four [B] (ii) and (iv) [C] (i), (ii) and (iv) [D] (ii), (iii) and (iv) (Correct answer)
+    [A] All four [B] (ii) and (iv) [C] (i), (ii) and (iv) [D] (ii), (iii) and (iv) (Correct answer)
 
-60) Match the objects in Part A with their size in Part B.
+93. Match the objects in Part A with their size in Part B.
 
-http://2.bp.blogspot.com/-TeK9kk4nlG0/U0bS6QwN2AI/AAAAAAAAAMQ/fdl4T1qMOPY/s1600/NT.mcq.2.jpg
+    http://2.bp.blogspot.com/-TeK9kk4nlG0/U0bS6QwN2AI/AAAAAAAAAMQ/fdl4T1qMOPY/s1600/NT.mcq.2.jpg
 
-[A] 1-a, 2-c, 3-d, 4-b [B] 1-b, 2-a, 3-c, 4-d [C] 1-a, 2-d, 3-b, 4-c (Correct answer) [D] 1-c, 2-d, 3-b, 4-a
+    [A] 1-a, 2-c, 3-d, 4-b [B] 1-b, 2-a, 3-c, 4-d [C] 1-a, 2-d, 3-b, 4-c (Correct answer) [D] 1-c, 2-d, 3-b, 4-a
 
-61) Match the items in Part A with appropriate alternative in Part B. 
+94. Match the items in Part A with appropriate alternative in Part B. 
 
-http://4.bp.blogspot.com/-EKsTPPNaezU/U0bTHaVlpVI/AAAAAAAAAMY/jC1ELTTzwK8/s1600/NT.mcq.1.jpg
+    http://4.bp.blogspot.com/-EKsTPPNaezU/U0bTHaVlpVI/AAAAAAAAAMY/jC1ELTTzwK8/s1600/NT.mcq.1.jpg
 
-[A] 1-c, 2-d, 3-a [B] 1-c, 2-b, 3-a [C] 1-c, 2-a, 3-b (Correct answer) [D] 1-a, 2-b, 3-d
+    [A] 1-c, 2-d, 3-a [B] 1-c, 2-b, 3-a [C] 1-c, 2-a, 3-b (Correct answer) [D] 1-a, 2-b, 3-d
 
-62) The suffix '-ene' in the name of fullerene shows the presence of _____ in the molecule.
+95. The suffix '-ene' in the name of fullerene shows the presence of _____ in the molecule.
 
-[A] one triple bond [B] one double bond (Correct answer) [C] two single bonds [D] two triple bonds
+    [A] one triple bond [B] one double bond (Correct answer) [C] two single bonds [D] two triple bonds
 
-SHORT ANSWERS
+Some Short Answer questions related to Nano Electronics for practice:
 
 1. Who coined the word "Nanotechnology"?
 
-ANS: K. Eric Drexler coined the word "Nanotechnology".
+    ANS: K. Eric Drexler coined the word "Nanotechnology".
 
 2. Who wrote the book "Engines of Creation"?
 
-ANS: K. Eric Drexler wrote the book "Engines of Creation".
+    ANS: K. Eric Drexler wrote the book "Engines of Creation".
 
 3. What is the meaning of the Greek word "Nano"?
 
-ANS: "Nano" means "dwarf".
+    ANS: "Nano" means "dwarf".
 
 4. What is the meaning of "Technology"?
 
-ANS: "Technology" is a process of using scientific principles and techniques to design new materials, devices, and systems for prosperity, comforts, betterment and enhancement of human life.
+    ANS: "Technology" is a process of using scientific principles and techniques to design new materials, devices, and systems for prosperity, comforts, betterment and enhancement of human life.
 
 5. What is Atomic Engineering?
 
-ANS: Atomic Engineering is the science involving manufacture of products with different properties by rearrangement of atoms.
+    ANS: Atomic Engineering is the science involving manufacture of products with different properties by rearrangement of atoms.
 
 6. Define: Nanotechnology.
 
-ANS: Nanotechnology is atom-by-atom or molecule-by-molecule building of structures that will be helpful in manufacturing new devices and systems.
+    ANS: Nanotechnology is atom-by-atom or molecule-by-molecule building of structures that will be helpful in manufacturing new devices and systems.
 
 7. How much is 1 micron in meter?
 
-ANS: 1 micron is equal to 10-6 meter.
+    ANS: 1 micron is equal to 10^-6 meter.
 
 8. What is the size of an integrated circuit transistor?
 
-ANS: The size of an integrated circuit transistor is 90 nm.
+    ANS: The size of an integrated circuit transistor is 90 nm.
 
 9. What is the size of a virus?
 
-ANS: A virus is 50 nm in size.
+    ANS: A virus is 50 nm in size.
 
 10. Mention the width of a DNA molecule.
 
-ANS: A DNA molecule has width of about 2 nm.
+    ANS: A DNA molecule has width of about 2 nm.
 
 11. What is the diameter of the hydrogen atom?
 
-ANS: The diameter of the hydrogen atom is 0.1 nm.
+    ANS: The diameter of the hydrogen atom is 0.1 nm.
 
 12. What is the full form of MEMS?
 
-ANS: "MicroElectro Mechanical Systems" is the full form of MEMS
+    ANS: "MicroElectro Mechanical Systems" is the full form of MEMS
 
 13. What is the size of red blood cells?
 
-ANS: The size of red blood cells is 5000 nm.
+    ANS: The size of red blood cells is 5000 nm.
 
 14. What is the size of a quantum dot?
 
-ANS: The size of a quantum dot is 5 nm.
+    ANS: The size of a quantum dot is 5 nm.
 
 15. Who invented STM(Scanning Tunneling Microscope)?
 
-ANS: Gern Binnig and Heinrich Rohre of IBM Research Lab invented STM in 1981.
+    ANS: Gern Binnig and Heinrich Rohre of IBM Research Lab invented STM in 1981.
 
 16. What can be considered as a loose atom or molecule floating in space?
 
-ANS: Anything smaller than a nanometer can be considered as a loose atom or molecule floating in space.
+    ANS: Anything smaller than a nanometer can be considered as a loose atom or molecule floating in space.
 
 17. What made it possible to study atoms and their manipulation in developing new structures?
 
-ANS: The invention of Scanning Tunneling Microscope(STM) made it possible to study atoms and their manipulation in developing new structures.
+    ANS: The invention of Scanning Tunneling Microscope(STM) made it possible to study atoms and their manipulation in developing new structures.
 
 18. What is the full form of AFM?
 
-ANS: The full form of AFM is Atomic Force Microscope.
+    ANS: The full form of AFM is Atomic Force Microscope.
 
 19. Which two types of fundamental molecules find wide applications in nanotechnology?
 
-ANS: Bucky balls and carbon nanotubes are two types of fundamental molecules that find wide applications in nanotechnology.
+    ANS: Bucky balls and carbon nanotubes are two types of fundamental molecules that find wide applications in nanotechnology.
 
 20. Why does nanotechnology play by different rules?
 
-ANS: Nanotechnology plays by different rules because of larger surface area relative to the volume of nanomaterials.
+    ANS: Nanotechnology plays by different rules because of larger surface area relative to the volume of nanomaterials.
 
 21. Who discovered Buckminsterfullerene(bucky ball)?
 
-ANS: Robert F. Curl,Jr.; Harold W. Croto; and Richard E. Smalley discovered the buckminsterfullerene in 1985.
+    ANS: Robert F. Curl,Jr.; Harold W. Croto; and Richard E. Smalley discovered the buckminsterfullerene in 1985.
 
 22. What does a bucky ball comprise of?
 
-ANS: A bucky ball comprises of 60 carbon atoms in the architectural configuration of a soccer ball(sphere).
+    ANS: A bucky ball comprises of 60 carbon atoms in the architectural configuration of a soccer ball(sphere).
 
 23. Who designed the famous geodesic dome?
 
-ANS: American architect Buckminster Fuller designed the famous geodesic dome.
+    ANS: American architect Buckminster Fuller designed the famous geodesic dome.
 
 24. What are carbon nanotubes? OR What are fullerenes?
 
-ANS: Carbon nanotubes are long tubular structures formed by joining bucky balls without their ends closing so that spheres are not formed.
+    ANS: Carbon nanotubes are long tubular structures formed by joining bucky balls without their ends closing so that spheres are not formed.
 
 25. Who conceptualised carbon nanotubes?
 
-ANS: Richard Smalley conceptualised carbon nanotubes.
+    ANS: Richard Smalley conceptualised carbon nanotubes.
 
 26. What is a bucky tube?
 
-ANS: A bucky tube is a carbon nanotube derived from bucky balls.
+    ANS: A bucky tube is a carbon nanotube derived from bucky balls.
 
 27. Mention the types of carbon nanotubes.
 
-ANS: The types of carbon nanotubes are:(1) Single Walled Nano Tube (SWNT)and (2)Multi Walled Nano Tube (MWNT)
+    ANS: The types of carbon nanotubes are: (1) Single Walled Nano Tube (SWNT) and (2) Multi Walled Nano Tube (MWNT)
 
 28. List out the areas of nanoscience.
 
-ANS: The areas of nanoscience are:(1)nanotubes (2)nanofabrication (3)nanomaterials (4)nanocomposites
+    ANS: The areas of nanoscience are: (1) nanotubes (2) nanofabrication (3) nanomaterials (4) nanocomposites
 
 29. Who photographed nanotubes for the first time?
 
-ANS: Sumio Tijima of NEC Laboratory photographed nanotubes for the first time.
+    ANS: Sumio Tijima of NEC Laboratory photographed nanotubes for the first time.
 
 30. Why do carbon nanotubes have very high tensile strength?
 
-ANS: Carbon nanotubes have very high tensile strength due to carbon-carbon bonds and the fact that each carbon tube is a very large molecule.
+    ANS: Carbon nanotubes have very high tensile strength due to carbon-carbon bonds and the fact that each carbon tube is a very large molecule.
 
 31. How do carbon nanotubes conduct heat ? OR Why do carbon nanotubes have high thermal conductivity?
 
-ANS: Carbon nanotubes have high thermal conductivity because they conduct heat by vibrations of covalent bonds between carbon atoms.
+    ANS: Carbon nanotubes have high thermal conductivity because they conduct heat by vibrations of covalent bonds between carbon atoms.
 
 32. How is nanotechnology useful in destroying tumours of cancer?
 
-ANS: A nanoshell of 100nm diameter floating through the body will be able to get attached only to cancerous cells which upon excitation by a laser beam will dissipate heat and destroy the tumour.
+    ANS: A nanoshell of 100nm diameter floating through the body will be able to get attached only to cancerous cells which upon excitation by a laser beam will dissipate heat and destroy the tumour.
 
 33. How can the melting point of materials be tuned using nanotechnology?
 
-ANS: The melting point of materials can be tuned by controlling their particle size in the range of nanoscale.
+    ANS: The melting point of materials can be tuned by controlling their particle size in the range of nanoscale.
 
 34. How can collateral damage be minimized during explosion using nanotechnology?
 
-ANS: The collateral damage during explosion can be minimized by varying the size of nanoparticles in munitions.
+    ANS: The collateral damage during explosion can be minimized by varying the size of nanoparticles in munitions.
 
 35. What is the use of nanocrystals?
 
-ANS: Nanocrystals can be used to transform electricity into light without excessive loss of energy due to heating.
+    ANS: Nanocrystals can be used to transform electricity into light without excessive loss of energy due to heating.
 
 36. Which fields of science will be affected by the progress of nanotechnology?
 
-ANS: The fields like nanotubes, nanofabrication, nanomaterials and nanocomposites will be affected by the progress of nanotechnology.
+    ANS: The fields like nanotubes, nanofabrication, nanomaterials and nanocomposites will be affected by the progress of nanotechnology.
 
 37. Mention two phenomena which are dominant and important at nanoscales(as compared to larger dimensions).
 
-ANS: Sticking and friction are dominant and important at nanoscales.
+    ANS: Sticking and friction are dominant and important at nanoscales.
 
 38. How can the mapping of DNA of a newly born baby be useful?
 
-ANS: The mapping of DNA of a newly born baby can help obtain information about future potential problems, enabling to curtail diseases at an early stage.
+    ANS: The mapping of DNA of a newly born baby can help obtain information about future potential problems, enabling to curtail diseases at an early stage.
 
 39. Mention the range of wavelength of visible light in nanometer.
 
-ANS: The range of wavelength of visible light is 400 to 700 nm.
+    ANS: The range of wavelength of visible light is 400 to 700 nm.
 
 40. Who outlined the "Vision and Prospects of Atomic Engineering'?
 
-ANS: Richard Feynman.
+    ANS: Richard Feynman.
 
 41. What is the diameter of human hair?
 
-ANS: The diameter of human hair is 75000 nm.
+    ANS: The diameter of human hair is 75000 nm.
 
 42. What is the full form of GPS?
 
-ANS: The full form of GPS is Global Positioning System.
+    ANS: The full form of GPS is Global Positioning System.
 
 43. What is the size of MEMS?
 
-ANS: The size of MEMS is 10-6 to 10 -4 m.
+    ANS: The size of MEMS is 10^-6 to 10^-4 m.
 
 44. What is the size of a nanoshell?
 
-ANS: The size of a nanoshell is 100 nm.
+    ANS: The size of a nanoshell is 100 nm.
 
-1. What are magnetic properties of nanomaterials?
+45. What are magnetic properties of nanomaterials?
 
-ANS: Non-magnetic materials become magnetic when the cluster size reduces to 80 atoms. Bulk magnetic moment increases with decreases in coordination number Ferro magnetic materials exhibit superparamagnetism at nanograin sizes. Paramagnetic materials exhibit ferromagnetism at nano grain size.
+    ANS: Non-magnetic materials become magnetic when the cluster size reduces to 80 atoms. Bulk magnetic moment increases with decreases in coordination number Ferro magnetic materials exhibit superparamagnetism at nanograin sizes. Paramagnetic materials exhibit ferromagnetism at nano grain size.
 
-2. How nanomaterials change mechanical properties?
+46. How nanomaterials change mechanical properties?
 
-ANS: Higher hardness and mechanical strength (2-7 times) when grain size reduces from 1 Î¼m to 10 nm. Higher moduli of elasticity (30%-40%). Very high ductility and super plastic behavior at low temperatures.
+    ANS: Higher hardness and mechanical strength (2-7 times) when grain size reduces from 1 Î¼m to 10 nm. Higher moduli of elasticity (30%-40%). Very high ductility and super plastic behavior at low temperatures.
 
-3. What are luminescence properties of nanomaterials?
+47. What are luminescence properties of nanomaterials?
 
-ANS: Greater luminescence efficiency in nano semiconductor materials.
+    ANS: Greater luminescence efficiency in nano semiconductor materials.
 
-4. Mention two techniques for synthesis of nano phase materials.
+48. Mention two techniques for synthesis of nano phase materials.
 
-ANS: Mechanical; Inert gas condensation; alloying; Sol-gel technique; Electro-depostion; Laser synthesis; Spraying.
+    ANS: Mechanical; Inert gas condensation; alloying; Sol-gel technique; Electro-depostion; Laser synthesis; Spraying.
 
-5. Mention two forms of nanomaterials used in nanoelectronics.
+49. Mention two forms of nanomaterials used in nanoelectronics.
 
-ANS: Nanodots, nanorods, Carbon nanotubes and Fullerenes.
+    ANS: Nanodots, nanorods, Carbon nanotubes and Fullerenes.
 
-6. What is shape memory effect?
+50. What is shape memory effect?
 
-ANS: Certain metallic alloys like alloy of gold (Au) and Cadmium (Cd) exhibit a plastic nature, when cooled to a lower temperature. The return to their original dimensional configuration (metallic) during heating at high temperature. This effect is called Shape Memory Effect (SME). How nanomaterials are used in nanomagnets?
+    ANS: Certain metallic alloys like alloy of gold (Au) and Cadmium (Cd) exhibit a plastic nature, when cooled to a lower temperature. The return to their original dimensional configuration (metallic) during heating at high temperature. This effect is called Shape Memory Effect (SME). How nanomaterials are used in nanomagnets?
 
-7. How nanomaterials used in super capacitors?
+51. How nanomaterials used in super capacitors?
 
-ANS: Capacitor value depends on area of plates, insulating material and distance between plates. Insulating materials using nanomaterials increase the capacitance value.
+    ANS: Capacitor value depends on area of plates, insulating material and distance between plates. Insulating materials using nanomaterials increase the capacitance value.
 
-8. What is wave packet? if so how?
+52. What is wave packet? if so how?
 
-ANS: Deviations from Ohm’s law is due to: Wave mechanical theory.
+    ANS: Deviations from Ohm’s law is due to: Wave mechanical theory.
 
-9. Can nanomaterial deviate Ohm’s law?
+53. Can nanomaterial deviate Ohm’s law?
 
-ANS: This transistor is made up of Carbon tubes.
+    ANS: This transistor is made up of Carbon tubes.
 
-10. Indian Scientists developed tiniest transistors in 2005 which was reported in Silicon India.  What they used to make these transistors?
+54. Indian Scientists developed tiniest transistors in 2005 which was reported in Silicon India.  What they used to make these transistors?
 
-11. How nanowires are used in high density memories?
+55. How nanowires are used in high density memories?
 
-12. How super capacitors are used in renewable energy?
+56. How super capacitors are used in renewable energy?
 
-13. How resistance size can be reduced using nanomaterials?
+57. How resistance size can be reduced using nanomaterials?
 
-14. What are metallic glasses?
+58. What are metallic glasses?
 
-ANS: Metallic  glasses  are  the  newly  developed  engineering  materials  which  shares  the properties of both metals and glasses. They are glasses having metallic properties.
+    ANS: Metallic  glasses  are  the  newly  developed  engineering  materials  which  shares  the properties of both metals and glasses. They are glasses having metallic properties.
 
-15. What are the advantages of using metallic glasses as transformer core material?
+59. What are the advantages of using metallic glasses as transformer core material?
 
-ANS: Metallic glasses are ferromagnetic. They possess low magnetic losses, high permeability and saturation magnetization with low coactivity. They also have extreme mechanical hardness and excellent initial permeability. These properties make them useful as transformer core materials. Moreover power transformers made of metallic glasses are smaller in size and efficient in their performance.
+    ANS: Metallic glasses are ferromagnetic. They possess low magnetic losses, high permeability and saturation magnetization with low coactivity. They also have extreme mechanical hardness and excellent initial permeability. These properties make them useful as transformer core materials. Moreover power transformers made of metallic glasses are smaller in size and efficient in their performance.
