@@ -706,13 +706,13 @@ Some MCQ questions related to Nano Electronics for practice:
 
 93. Match the objects in Part A with their size in Part B.
 
-    http://2.bp.blogspot.com/-TeK9kk4nlG0/U0bS6QwN2AI/AAAAAAAAAMQ/fdl4T1qMOPY/s1600/NT.mcq.2.jpg
+    ![http://2.bp.blogspot.com/-TeK9kk4nlG0/U0bS6QwN2AI/AAAAAAAAAMQ/fdl4T1qMOPY/s1600/NT.mcq.2.jpg](http://2.bp.blogspot.com/-TeK9kk4nlG0/U0bS6QwN2AI/AAAAAAAAAMQ/fdl4T1qMOPY/s1600/NT.mcq.2.jpg)
 
     [A] 1-a, 2-c, 3-d, 4-b [B] 1-b, 2-a, 3-c, 4-d [C] 1-a, 2-d, 3-b, 4-c (Correct answer) [D] 1-c, 2-d, 3-b, 4-a
 
 94. Match the items in Part A with appropriate alternative in Part B. 
 
-    http://4.bp.blogspot.com/-EKsTPPNaezU/U0bTHaVlpVI/AAAAAAAAAMY/jC1ELTTzwK8/s1600/NT.mcq.1.jpg
+    ![http://4.bp.blogspot.com/-EKsTPPNaezU/U0bTHaVlpVI/AAAAAAAAAMY/jC1ELTTzwK8/s1600/NT.mcq.1.jpg](http://4.bp.blogspot.com/-EKsTPPNaezU/U0bTHaVlpVI/AAAAAAAAAMY/jC1ELTTzwK8/s1600/NT.mcq.1.jpg)
 
     [A] 1-c, 2-d, 3-a [B] 1-c, 2-b, 3-a [C] 1-c, 2-a, 3-b (Correct answer) [D] 1-a, 2-b, 3-d
 
